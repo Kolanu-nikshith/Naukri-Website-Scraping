@@ -1,0 +1,17 @@
+
+
+a) Files Created during this project
+
+1. naukri_jobs.py (path: .\webscraping\naukri_analysts\naukri_analysts\spiders)
+
+b) OUTPUT of this project
+
+1. naukri_dataanalytics.csv (path: .\webscraping\naukri_analysts\tmp)
+
+c) Files Updated during Project:
+
+1. items.py (path : .\webscraping\naukri_analysts\naukri_analysts)
+
+2. pipelines.py (path : .\webscraping\naukri_analysts\naukri_analysts)
+
+3. settings.py (path : .\webscraping\naukri_analysts\naukri_analysts)
